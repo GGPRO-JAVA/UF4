@@ -1,4 +1,4 @@
-# El mètode random()
+# El mètode random() (Java)
 
 Per generar valors aleatoris farem servir Math.random(). Aquesta funció genera un nombre amb decimal (de tipus double) a l'interval [0 - 1], és a dir, genera un nombre més gran o igual que 0 i menor que 1.
 
