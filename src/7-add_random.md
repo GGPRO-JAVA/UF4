@@ -29,7 +29,7 @@ public class UF05ExempleMathRandom {
 
         System.out.println("Genera a l'atzar pedra, paper o tisora: ");
 
-        // genera un número a l’azar entre 0 y 2 ambdós inclosos
+        // genera un número a l'azar entre 0 y 2 ambdós inclosos
         int mano = (int)(Math.random()*3);
 
         switch(mano) {
